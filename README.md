@@ -1,6 +1,7 @@
 #  مائیکروسافٹ فلائٹ سمیولیٹر ٢٠٢٠ کی تصاویر
 # Microsoft Flight Simulator 2020 Screenshots
 
+![Screenshot](https://github.com/kolachistudios/msfs-screenshots/blob/main/images/Screenshot-19.jpg?raw=true)
 ![Screenshot](https://github.com/kolachistudios/msfs-screenshots/blob/main/images/Screenshot-00.jpg?raw=true)
 ![Screenshot](https://github.com/kolachistudios/msfs-screenshots/blob/main/images/Screenshot-01.jpg?raw=true)
 ![Screenshot](https://github.com/kolachistudios/msfs-screenshots/blob/main/images/Screenshot-02.jpg?raw=true)
